@@ -1,16 +1,15 @@
-# test_with_bloc
+Simple APP with Bloc.
 
-A new Flutter project.
+## Packages use in Project
 
-## Getting Started
+ - flutter_bloc:
+ - equatable:
+ - dio:
+ - hive: 
+ - hive_flutter: 
+ - path_provider: 
+ - intl: 
 
-This project is a starting point for a Flutter application.
+Download APK here: (click here)[https://drive.google.com/file/d/1TNqQ9FHL43_2NwbIPzw0VLAXLWnaEVzK/view?usp=sharing]
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
